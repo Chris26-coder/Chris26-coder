@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=B.Tech+Student+%7C+Future+CyberSec+and+AI+Engineer;Learning+n8n+%26+Generative+AI;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=B.Tech+Student+%7C+Future+CyberSec+&+AI+Engineer;Learning+n8n+%26+Generative+AI;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
 
 
 <h3>A B.Tech student at Manipal Institute of Technology, Bangalore<br>pursuing my degree in "Cybersecurity."</h3>
