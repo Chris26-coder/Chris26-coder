@@ -34,9 +34,11 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="65" height="65"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali-linux" width="65" height="65"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-sql" width="65" height="65"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="65" height="65"/>
+
+
 
   
  
@@ -58,7 +60,7 @@ class ChrisOnilFernandes:
     def __init__(self):
         self.name = "Chris Onil Fernandes"
         self.role = "Cybersecurity and AI"
-        self.learning = ["Python", "Kali Linux"]
+        self.learning = ["Python", "Kali Linux","n8n"]
         self.next_goals = ["Artificial Intelligence", "Computer Vision"]
         
     def vision(self):
